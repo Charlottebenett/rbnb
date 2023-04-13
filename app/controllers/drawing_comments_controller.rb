@@ -1,0 +1,2 @@
+class DrawingCommentsController < ApplicationController
+end
